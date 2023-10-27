@@ -34,7 +34,7 @@ Below is the details about each task and solutions
 
   `Alternatively`
   #### You can check the result on terminal by follow the steps below
-   - Be sure to have the project directory to be this ```test/task-four``` by running this line on your terminal ```cd test/task-four```
+   - Be sure to have the project directory to be this ```assessment/task-four``` by running this line on your terminal ```cd assessment/task-four```
    - the run this ```node taskFour.js``` on the terminal to get the result
 
 
